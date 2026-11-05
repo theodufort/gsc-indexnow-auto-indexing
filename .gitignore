@@ -1,0 +1,3 @@
+*.json
+urls.csv
+.venv/
